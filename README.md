@@ -2,7 +2,7 @@
 
 ## NeurIPS 2018 paper:
 
-<b>Title</b>: <i>Diverse Ensemble Evolution: Curriculum based Data-Model Marriage</i> <a href="https://papers.nips.cc/paper/7831-diverse-ensemble-evolution-curriculum-data-model-marriage.pdf">[pdf]</a> <a href="https://papers.nips.cc/paper/7831-diverse-ensemble-evolution-curriculum-data-model-marriage-supplemental.zip">[appendix]</a> <a href="./paper/dihcl_neurips2020_slides.pdf">[slides]</a>\
+<b>Title</b>: <i>Diverse Ensemble Evolution: Curriculum based Data-Model Marriage</i> <a href="https://papers.nips.cc/paper/7831-diverse-ensemble-evolution-curriculum-data-model-marriage.pdf">[pdf]</a> <a href="https://papers.nips.cc/paper/7831-diverse-ensemble-evolution-curriculum-data-model-marriage-supplemental.zip">[appendix]</a> <a href="Diverse_Ensemble_Evolution_NeurIPS18.pdf.pdf">[poster]</a>\
 <b>Authors</b>: Tianyi Zhou, Shengjie Wang, Jeff A. Bilmes\
 <b>Institute</b>: University of Washington, Seattle
 
